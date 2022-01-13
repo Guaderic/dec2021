@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+}
+.txt1{
+    text-align: center;
+    background: brown;
+}
+.txt2{
+    height: 70px;
+    box-sizing: border-box;
+    background: #808096;
+    padding-top: 15px;
+    padding-bottom: 5px;
+}
+.txt3{
+    height: 100px;
+    box-sizing: border-box;
+    background: cornflowerblue;
+    padding-top: 40px;
+}
+.target{
+    width: 180px;
+    height: 180px;
+    background: forestgreen;
+
+}
+.target2{
+    width: 180px;
+    height: 180px;
+    background: grey;
+    border-radius: 20px;
+
+}
