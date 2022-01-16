@@ -1,0 +1,27 @@
+
+.wrap{
+    height: 600px;
+    width: 650px;
+    background: #808096;
+    display: flex;
+    flex-wrap: wrap;
+}
+.wrap > div{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.a{
+    height: 100px;
+    width: 620px;
+    background: brown;
+}
+.b{
+    height: 200px;
+    width: 400px;
+    background: cornflowerblue;
+}
+.c{
+    height: 200px;
+    width: 200px;
+    background: gold;
+}
