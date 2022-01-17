@@ -1,0 +1,26 @@
+.wrap{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    column-gap: 20px;
+}
+.block{
+    width: 180px;
+    height: 300px;
+    background: cyan;
+    font-size: 18px;
+    box-sizing: border-box;
+    text-align: center;
+    padding-top: 15px;
+
+}
+.min_block{
+    height: 50px;
+    width: 100px;
+    box-sizing: border-box;
+    background: cornflowerblue;
+    text-align: center;
+
+    margin: auto;
+
+}
