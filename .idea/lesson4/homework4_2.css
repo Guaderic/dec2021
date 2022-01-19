@@ -1,0 +1,51 @@
+.wrap {
+    width: 400px;
+    background: aliceblue;
+    display: flex;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+    row-gap: 5px;
+    column-gap: 5px;
+    margin: auto;
+}
+.post{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+
+}
+.w400 {
+    width: 400px;
+}
+
+.bgr_1{
+
+background: #e6f7b0 ;
+}
+.bgr_2{
+    background: #9fe2ff;
+}
+.bgr_3{
+    background: #feb6fe;
+}
+.w305{
+    width: 300px;
+}
+.w95{
+    width: 95px;
+}
+.h301{
+    height: 301px;
+}
+.h50{
+    height: 50px;
+}
+.h148{
+    height: 148px;
+}
+.txt{
+    box-sizing: border-box;
+    text-align: center;
+    font-size: 20px;
+}
