@@ -1,0 +1,40 @@
+.wrap{
+    background: #ffffff;
+    display: flex;
+    width: 414px;
+    flex-wrap: wrap;
+    column-gap: 4px;
+    row-gap: 4px;
+    text-align: center;
+    margin: auto;
+    border: #4f4f65 4px solid;
+    border-radius: 5px;
+}
+.w415{
+    width: 415px;
+}
+.w310{
+    width: 310px;
+}
+.w100{
+    width: 100px;
+}
+.h100{
+    height: 100px;
+}
+.h205{
+    height: 205px;
+}
+.bgr{
+    background: #d8d8d8;
+}
+.box{
+    box-sizing: border-box;
+}
+#bcde {
+    display: flex;
+    flex-wrap: wrap;
+    width: 310px;
+    height: 210px;
+    column-gap: 4px;
+}
