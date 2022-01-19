@@ -1,0 +1,56 @@
+.wrap_1{
+    width: 500px;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+}
+
+
+
+.wrap{
+    width: 150px;
+    height: 300px;
+    display: flex;
+    flex-wrap: wrap;
+   justify-content: center;
+
+}
+.circ{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background: violet;
+    align-items: center;
+    position: relative;
+    top: 25px;
+}
+.sq{
+    width: 150px;
+    height: 250px;
+    background: cornflowerblue;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+   justify-content: center;
+
+
+}
+
+.min_sq{
+    width: 80px;
+    height: 30px;
+    background: cyan;
+
+
+}
+.box{
+    box-sizing: border-box;
+}
+.sq>h3{
+    padding-top: 20px;
+}
+.min_sq{
+    padding-top: 5px;
+}
+
+
