@@ -1,0 +1,40 @@
+.wrap{
+    display: flex;
+    width: 304px;
+    flex-wrap: wrap;
+    background: white;
+    color: white;
+    row-gap: 5px;
+    column-gap: 5px;
+    text-align: center;
+    box-sizing: border-box;
+    margin: auto;
+
+}
+.box{
+    box-sizing: border-box;
+}
+.w300{
+    width: 300px;
+}
+.h300{
+    height: 300px;
+}
+.h150{
+    height: 150px;
+}
+.w97{
+    width: 97px;
+}
+.bgr_1{
+    background: #2269bb ;
+}
+.bgr_2{
+    background: #16457a;
+}
+.f-size_1{
+    font-size: 20px;
+}
+.wid{
+    padding-top: 40px;
+}
