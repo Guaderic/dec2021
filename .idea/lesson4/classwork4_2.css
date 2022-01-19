@@ -1,0 +1,37 @@
+.wrap{
+    width: 420px;
+    background: white;
+    display: flex;
+    flex-wrap: wrap;box-sizing: border-box;
+    row-gap: 4px;
+    column-gap: 4px;
+    margin: auto;
+    text-align: center;
+
+}
+.w400{
+    width: 414px;
+}
+.h100{
+    height: 100px;
+}
+.w100{
+    width: 100px;
+}
+.h200{
+    height: 206px;
+}
+.bgr{
+    background: #d9d9d9;
+}
+.box{
+    box-sizing: border-box;
+}
+.squares{
+    width: 310px;
+    height: 210px;
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: 2px;
+    column-gap: 4px;
+}
