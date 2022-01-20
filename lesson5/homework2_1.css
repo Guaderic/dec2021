@@ -29,17 +29,12 @@
     display: flex;
     flex-wrap: wrap;
     width: 195px;
-    column-gap: 4px;
+    column-gap: 8px;
     row-gap: 6px;
     position: relative;
     bottom: 170px;
 }
 
-
-
-
-
-}
 .box{
     box-sizing: border-box;
 }
@@ -118,9 +113,10 @@
 }
 .footer{
     position: relative;
-    top: 0px;
+    top: 1px;
 }
 .wrap4{
     width: 400px;
+    column-gap: 8px;
 }
 }
