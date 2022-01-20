@@ -30,7 +30,7 @@
     flex-wrap: wrap;
     width: 195px;
     column-gap: 8px;
-    row-gap: 6px;
+    row-gap: 4px;
     position: relative;
     bottom: 170px;
 }
@@ -70,6 +70,9 @@
 }
 .w800{
     width: 800px;
+}
+.w197{
+    width: 197px;
 }
 .footer{
     position: relative;
@@ -117,6 +120,6 @@
 }
 .wrap4{
     width: 400px;
-    column-gap: 8px;
+    column-gap: 6px;
 }
 }
