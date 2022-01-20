@@ -1,0 +1,126 @@
+.wrap{
+    width: 810px;
+    background: white;
+    display: flex;
+    margin: auto;
+    flex-wrap: wrap;
+    row-gap: 4px;
+    column-gap: 4px;
+    box-sizing: border-box;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+
+
+}
+.wrap2{
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 4px;
+}
+.wrap3{
+    width: 600px;
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 4px;
+    row-gap: 4px;
+}
+.wrap4{
+    display: flex;
+    flex-wrap: wrap;
+    width: 195px;
+    column-gap: 4px;
+    row-gap: 6px;
+    position: relative;
+    bottom: 170px;
+}
+
+
+
+
+
+}
+.box{
+    box-sizing: border-box;
+}
+.bgr{
+    background: #676767;
+}
+.w200{
+    width: 196px;
+}
+.w600{
+    width: 600px;
+}
+.h80{
+    height: 80px;
+}
+.h500{
+    height: 500px;
+}
+.w400{
+    width: 400px;
+}
+.w196{
+    width: 196px;
+}
+.h220{
+    height: 220px;
+}
+.h450{
+    height: 450px;
+}
+.w150{
+    width: 150px;
+}
+.w800{
+    width: 800px;
+}
+.footer{
+    position: relative;
+    bottom: 170px;
+}
+@media screen and (min-width: 0px) and (max-width: 540px) {
+    .wrap{
+        width: 400px;
+    }
+    .wrap2 {
+        width: 400px;
+        display: flex;
+        flex-wrap: nowrap;
+        flex-direction: row;
+
+
+    }
+.LOGO{
+    width: 80px;
+}
+.header{
+    width: 315px;
+}
+.Nav{
+    width: 400px;
+    height: 100px;
+}
+.Bath{
+    width: 315px;
+}
+.Ad{
+    width: 80px;
+}
+.relate{
+    width: 400px;
+    height: 220px;
+}
+.store, .tools{
+    position: relative;
+    top: 170px;
+}
+.footer{
+    position: relative;
+    top: 0px;
+}
+.wrap4{
+    width: 400px;
+}
+}
