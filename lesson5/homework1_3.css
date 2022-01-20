@@ -42,12 +42,14 @@
     padding-top: 180px;
 }
 @media screen and (min-width: 0px) and (max-width: 790px) {
-    .wrap, .wrap2{
+    .wrap{
         width: 396px;
+
     }
     .wrap2{
-        margin: 15px;
-    }
+        width: 396px;
+        justify-content: space-between;
+         }
     .A{
         width: 396px;
         height: 70px;
@@ -56,9 +58,22 @@
     .B, .C, .D, .E, .F, .G{
         width: 80px;
         height: 80px;
-        margin: 20px;
+        margin: 10px;
         padding-top: 40px;
 
+    }
+    .B{
+        margin-left: 0px;
+        margin-right: 20px;
+    }
+    .D{
+        margin: 10px 0px 6px 20px;
+    }
+    .G{
+        margin-right: 0px;
+    }
+    .E{
+        margin-left: 0px;
     }
     .H{
         width: 396px;
