@@ -1,17 +1,17 @@
 .wrap{
-    width: 600px;
+    width: 608px;
     background: white;
     border: #808096 2px solid;
     display: flex;
     flex-wrap: wrap;
-    row-gap: 3px;
-    column-gap: 3px;
+    row-gap: 10px;
+    column-gap: 10px;
     margin: auto;
     border-radius: 5px;
     text-align: center;
 }
 .w600{
-    width: 600px;
+    width: 608px;
 }
 .w100{
     width: 100px;
@@ -42,8 +42,15 @@
         width: 300px;
          flex-direction: column;
     }
-    .A, .B, .C{
+    .B{
         width: 300px;
         height: 300px;
+    }
+    .A, .C{
+        width: 300px;
+        height: 80px;
+    }
+    .C{
+        padding-top: 30px;
     }
 }
