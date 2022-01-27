@@ -764,7 +764,7 @@
     width: 582px;
     height: 584px;
     background: #F2EDE7;
-    border-radius: 10px 0px 0px 10px;
+    border-radius: 10px 0 0 10px;
     box-sizing: border-box;
     padding: 80px 117px 80px 116px;
 }
@@ -998,3 +998,4 @@
     height: 28px;
     display: flex;
     column-gap: 24px;
+}
